@@ -27,7 +27,7 @@ pnpm build      # typecheck + production build
 
 This repository contains code under two regimes:
 
-- **`src/toolcraft/`** — the [Toolcraft](https://pixel-point.com) runtime and UI components, owned by Pixel Point and governed by the [Toolcraft Designer License](LICENSE.md). Published here with Pixel Point's permission. See [NOTICE.md](NOTICE.md).
-- **Everything else** (the balancing math, logo analysis, board layout, exporters, and app code) — © 2026 [@szmichalczyk](https://github.com/szmichalczyk).
+- **`src/toolcraft/`** — the [Toolcraft](https://pixelpoint.io/blog/how-to-craft-personal-design-tools-with-toolcraft/) runtime and UI components, owned by Pixel Point and governed by the [Toolcraft Designer License](LICENSE.md). Published here with Pixel Point's permission. See [NOTICE.md](NOTICE.md).
+- **Everything else** (the balancing math, logo analysis, board layout, exporters, and app code) — © 2026 [@szmichalczyk](https://x.com/szmichalczyk).
 
 This project was created with Toolcraft.
